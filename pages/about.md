@@ -2,13 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 2
 ---
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hey! I am **{{ site.author.name }}** :wave:<br>
+I'm a student at International Institute of Information Technology (IIIT) Hyderabad, currently pursuing B.Tech in Computer Science and Engineering. I'm interested in computer vision and its applications. I also play around with machine learning. I love playing badminton and I'm a Red belt in Kung Fu!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

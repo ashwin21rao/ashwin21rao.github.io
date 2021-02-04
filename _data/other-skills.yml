@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Kung Fu
+  percentage: 80
+  color: success
+
+- name: Public Speaking
+  percentage: 70
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Piano & Keyboard
+  percentage: 70
+  color: info

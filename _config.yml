@@ -15,12 +15,11 @@ nav_exclude: # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/blog.html
 
 ### Author Info ###
 author:
   name: Ashwin Rao
-  image: https://avatars.githubusercontent.com/u/59637517?s=460&u=2dad7348e5696586998c7ece049295260dd77d37&v=4
+  image: assets/images/me.jpg
   # dribbble          : your_username
   email: ashwin.rao@students.iiit.ac.in
   # facebook: your_username
@@ -48,8 +47,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements: # For Documentation Only
-    output: true # For Documentation Only
 
 ### Disqus ###
 disqus:

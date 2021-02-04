@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
+- name: C
   percentage: 90
-  color: danger
+  color: success
 
-- name: Go
+- name: HTML/SCSS
+  percentage: 90
+  color: success
+
+- name: JavaScript (ES6+)
   percentage: 80
-  color:
+  color: info
 
 - name: Python
+  percentage: 75
+  color: info
+
+- name: MySQL
   percentage: 70
-  color: dark
+  color: info
+
+- name: MERN Stack
+  percentage: 60
+  color: danger
