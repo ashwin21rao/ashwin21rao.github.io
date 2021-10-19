@@ -1,7 +1,7 @@
 ### Site Settings ###
 title: Ashwin Rao
 description: >-
-  Hi! I'm Ashwin, a Computer Science undergrad (3nd year) at IIIT Hyderabad.
+  Hi! I'm Ashwin, a Computer Science undergrad (3rd year) at IIIT Hyderabad.
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: ashwin21rao/ashwin21rao.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme: YoussefRaafatNasry/portfolYOU
